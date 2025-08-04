@@ -98,4 +98,4 @@ This project forecasts the growth of Electric Vehicle (EV) adoption across count
 
 ## 🔗 Project Repository
 
-GitHub: [EV-Vehicle-project](https://github.com/Animofly/EV-Vehicle-project)
+GitHub: [EV_Adoption_forecasting_proj](https://github.com/Animofly/EV_Adoption_forecasting_proj)
